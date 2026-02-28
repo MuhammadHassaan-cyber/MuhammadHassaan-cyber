@@ -1,66 +1,66 @@
-# Hello! I'm Hassaan
+# Hello, I'm Muhammad Hassaan  
+<a href="https://tryhackme.com/p/hasaan.cyber"><img src="https://img.shields.io/badge/-TryHackMe-1B9E5A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://github.com/MuhammadHassaan-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-# Cybersecurity Learning Journey
+I'm a self-taught cybersecurity enthusiast with a deep curiosity for how systems work and how they can break. I love solving puzzles, mapping risks, and methodically working through challenges until I understand them fully.
 
-Welcome to my personal cybersecurity notebook. I'm documenting everything I learn as I work toward becoming an offensive security professional (red team / penetration testing). This repo is my living portfolio—a place where I store commands, tool breakdowns, CTF write-ups, and the occasional struggle.
+## Objective
 
+My goal is to build a career in **offensive security / red teaming**. I'm currently focused on mastering the fundamentals of penetration testing, web application security, and cloud security, with the long‑term aim of specializing in AI red teaming. I believe in learning by doing, and this GitHub is my living portfolio of that journey.
 
-## Why this repo exists
+## Skills
 
-I learn best by doing and by writing things down. This repository helps me:
+| Skill                                         | Associated Project / Write‑up         |
+|-----------------------------------------------|----------------------------------------|
+| Network Scanning & Enumeration                | [Vulnversity Reconnaissance](https://github.com/your-username/cybersecurity-notes/tree/main/writeups/vulnversity) |
+| Directory Brute‑Forcing with Gobuster         | [Gobuster Deep Dive](https://github.com/your-username/cybersecurity-notes/blob/main/tools/gobuster-breakdown.md) |
+| Linux Command Line & Process Management       | [Linux Basics Cheat Sheet](https://github.com/your-username/cybersecurity-notes/blob/main/linux-commands.md) |
+| Web Application Security Fundamentals         | (In progress – PortSwigger Labs)      |
+| Reverse Shells & Netcat                       | [Understanding Netcat](https://github.com/your-username/cybersecurity-notes/blob/main/tools/netcat-notes.md) |
 
-- Keep track of what I've learned
+## Tools I Use & Learning
 
-- Understand tools deeply (not just copy-paste commands)
+### Network Scanning & Enumeration
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-004C9E?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-7D4698?&style=for-the-badge&logo=go&logoColor=white" />
+</div>
 
-- Look back and see how far I've come
+### Web Application Testing
+<div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF5722?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
 
-- Share my progress with others who might be on a similar path
+### Scripting & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-## What you'll find here
+## Certifications (In Progress)
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_(Planned)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-eJPT_(Future)-0078D4?&style=for-the-badge&logo=elearning&logoColor=white" />
+</div>
 
-- **Linux & command references** – notes on essential commands, flags, and how they work
+## Featured Projects
 
-- **Tool deep-dives** – breakdowns of tools like `nmap`, `gobuster`, `burpsuite`, and more
-
-- **CTF / lab write-ups** – walkthroughs of rooms from TryHackMe, HackTheBox, etc., including my struggles and breakthroughs
-
-- **Scripts & tools** – small Python or Bash scripts I write along the way
-
-- **Learning reflections** – thoughts on mindset, persistence, and problem-solving
-
-
-
-## Current progress
-
--  Linux basics – navigating the terminal, file permissions, process management
-
--  Gobuster – understood flags, practiced on Vulnversity
-
--  Vulnversity (TryHackMe) – working through tasks, documenting each step
-
--  Nmap deep dive – coming soon
-
--  Python for security – planned
-
-
-## A note on the journey
-
-I'm a beginner, and I don't pretend otherwise. You'll find mistakes, dead ends, and moments of frustration here—because that's how real learning happens. If you're also starting out, I hope this repo shows you that persistence matters more than perfection.
-
-
-
-## How to use this repo
-
-Feel free to browse, borrow ideas, or get inspired. If you have suggestions or want to connect, open an issue or reach out (links below).
-
-Gmail: hasaan.cyber@gmail.com
-
+- **[Vulnversity Walkthrough Series](https://github.com/your-username/cybersecurity-notes/tree/main/writeups/vulnversity)** – Detailed write‑ups of my first TryHackMe room, including the mistakes, the breakthroughs, and every command I ran.
+- **[Gobuster Command Breakdown](https://github.com/your-username/cybersecurity-notes/blob/main/tools/gobuster-breakdown.md)** – A personal reference that explains each flag and how to use the tool effectively.
+- **[Linux Basics for Hackers](https://github.com/your-username/cybersecurity-notes/blob/main/linux-commands.md)** – A growing collection of Linux commands with explanations and usage examples.
 
 ---
 
+### 🧩 A Little About How I Learn
 
-_Started: February 2026_  
+I don't just copy commands—I break them down, experiment, and document until I truly understand. You'll find notes on my struggles as well as my successes, because that's where real learning happens. If you're also on a similar path, feel free to explore, borrow, and reach out. We're all building our skills one puzzle at a time.
 
-_Last updated: 2/28/2026_
+📫 **Email:** hasaan.cyber@gmail.com  
+🌐 **TryHackMe:** [your-tryhackme-profile](https://tryhackme.com/p/your-username)  
+💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-username)  
