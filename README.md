@@ -1,4 +1,6 @@
-My Cybersecurity Journey (and the notes to prove it) 🧩🔐
+Hello! I'm Hassaan
+
+This is my Cybersecurity Journey (and the notes to prove it) 🧩🔐
 Hey there! Welcome to my personal cybersecurity brain-dump. I'm currently on a mission to become an offensive security professional (aiming for red team / pen-testing), and this repo is where I'm keeping track of the chaos.
 
 Think of this as my living portfolio: an honest collection of commands, tool cheat sheets, CTF write-ups, and plenty of moments where I had absolutely no idea what I was doing.
@@ -45,6 +47,8 @@ If you're also just starting out and feeling overwhelmed, I hope poking around i
 
 How to use this repo
 Feel free to snoop around, borrow a command, or laugh at my early mistakes. If you spot a better way to do something, or just want to connect and talk cyber, my inbox (or the issues tab) is always open.
+
+Gmail: hasaan.cyber@gmail.com
 
 Started the grind: February 2026
 
