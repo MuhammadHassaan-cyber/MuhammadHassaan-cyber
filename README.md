@@ -1,7 +1,5 @@
 Hello! I'm Hassaan
 
-This is my Cybersecurity Journey (and the notes to prove it) 🧩🔐
-Hey there! Welcome to my personal cybersecurity brain-dump. I'm currently on a mission to become an offensive security professional (aiming for red team / pen-testing), and this repo is where I'm keeping track of the chaos.
 
 Think of this as my living portfolio: an honest collection of commands, tool cheat sheets, CTF write-ups, and plenty of moments where I had absolutely no idea what I was doing.
 
