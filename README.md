@@ -1,6 +1,7 @@
 # Hello, I'm Muhammad Hassaan  
 <a href="https://tryhackme.com/p/hasaan.cyber"><img src="https://img.shields.io/badge/-TryHackMe-1B9E5A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 <a href="https://github.com/MuhammadHassaan-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammad-hassaan-5641903b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a self-taught cybersecurity enthusiast with a deep curiosity for how systems work and how they can break. I love solving puzzles, mapping risks, and methodically working through challenges until I understand them fully.
 
