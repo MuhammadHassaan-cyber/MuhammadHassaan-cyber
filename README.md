@@ -25,6 +25,8 @@ Scrappy Scripts – Small Python or Bash scripts I've cobbled together to make m
 
 Brain Dumps – Thoughts on the mindset required for this field, handling frustration, and learning how to think like an attacker.
 
+I spent an hour stuck on Vulnversity because I was using the wrong IP. That's the kind of thing you'll find in here
+
 Where I'm at right now
 ✅ Linux basics – Finally comfortable navigating the terminal without breaking things (mostly).
 
