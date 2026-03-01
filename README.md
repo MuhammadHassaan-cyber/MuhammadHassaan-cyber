@@ -44,10 +44,13 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-## Certifications (In Progress)
+## 🎯 Certification Roadmap
+*These represent my target benchmarks for the next 12-24 months.*
+
 <div>
     <img src="https://img.shields.io/badge/-CompTIA_Security%2B_(Planned)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-eJPT_(Future)-0078D4?&style=for-the-badge&logo=elearning&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSCP_(Long--term_Goal)-black?&style=for-the-badge&logo=offsec&logoColor=white" />
 </div>
 
 ## Featured Projects
