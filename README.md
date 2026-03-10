@@ -55,9 +55,9 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
 
 ## Featured Projects
 
-- **[Vulnversity Walkthrough Series](https://github.com/your-username/cybersecurity-notes/tree/main/writeups/vulnversity)** – Detailed write‑ups of my first TryHackMe room, including the mistakes, the breakthroughs, and every command I ran.
-- **[Gobuster Command Breakdown](https://github.com/your-username/cybersecurity-notes/blob/main/tools/gobuster-breakdown.md)** – A personal reference that explains each flag and how to use the tool effectively.
-- **[Linux Basics for Hackers](https://github.com/your-username/cybersecurity-notes/blob/main/linux-commands.md)** – A growing collection of Linux commands with explanations and usage examples.
+- **[Linux Commands](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/Linux-Commands.md)** – A growing collection of Linux commands with explanations and usage examples.
+- **[Write-ups](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/tree/main/Writeups))** – Detailed write‑ups of my first TryHackMe room, including the mistakes, the breakthroughs, and every command I ran.
+- **[Tools](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/tree/main/TOOLS)** – A personal reference that explains Tools with each flag.
 
 ---
 
