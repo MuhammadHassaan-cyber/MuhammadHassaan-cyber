@@ -4,7 +4,7 @@ When I first opened Vulnversity, I didn't even know what it was or what to do. I
 
 ## Task 2
 
-This task was about **Nmap** port scanning and other basics. First, I watched a tutorial on YouTube and then tried to execute the commands on my own. I got stuck on the very first command for about two hours just because I was entering the IP address incorrectly. I thought it was so simple and common that it couldn't possibly be the mistake, so I tried many different tweaks. Eventually, I realized the IP was wrong, and after fixing it, I completed Task 2. I was stuck at the beginning of the questions, but once I got the commands working, the rest of the task was easy.
+This task was about **Nmap** port scanning and other basics. First, I watched a tutorial on YouTube and then tried to execute the commands on my own. I got stuck on the very first command for about two hours just because I was entering the IP address incorrectly. I thought it was so simple and common that it couldn't possibly be the mistake, so I tried many different tweaks. Eventually, I realized the IP was wrong, and after fixing it, I completed Task 2. I was stuck at the beginning of the questions, but once I got the commands working, the rest of the questions was easy.
 
 ## Task 3
 
