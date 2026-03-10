@@ -15,7 +15,7 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
 |-----------------------------------------------|----------------------------------------|
 | Network Scanning & Enumeration                | [Vulnversity Reconnaissance](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/Writeups/Vulnversity/Task-1-2-nmap.md) |
 | Directory Brute‑Forcing with Gobuster         | [Gobuster Deep Dive](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/TOOLS/Gobuster-Notes.md) |
-| Linux Command Line & Process Management       | [Linux Basics Cheat Sheet](https://github.com/your-username/cybersecurity-notes/blob/main/linux-commands.md) |
+| Linux Command Line & Process Management       | [Linux Basics Cheat Sheet](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/Linux-Commands.md) |
 | Web Application Security Fundamentals         | (In progress – PortSwigger Labs)      |
 | Reverse Shells & Netcat                       | [Understanding Netcat](https://github.com/your-username/cybersecurity-notes/blob/main/tools/netcat-notes.md) |
 
