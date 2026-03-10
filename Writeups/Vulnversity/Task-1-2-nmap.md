@@ -1,6 +1,4 @@
-# Vulnversity Commands
-
-## Task 1-2: Reconnaissance
+# Task 1-2: Reconnaissance
 
 ## Scan IP
 
