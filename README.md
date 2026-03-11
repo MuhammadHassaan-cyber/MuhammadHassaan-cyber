@@ -66,5 +66,5 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
 I don't just copy commands—I break them down, experiment, and document until I truly understand. You'll find notes on my struggles as well as my successes, because that's where real learning happens. If you're also on a similar path, feel free to explore, borrow, and reach out. We're all building our skills one puzzle at a time.
 
 📫 **Email:** hasaan.cyber@gmail.com  
-🌐 **TryHackMe:** [your-tryhackme-profile](https://tryhackme.com/p/your-username)  
-💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-username)  
+🌐 **TryHackMe:** [Hasaan.cyber](https://tryhackme.com/p/hasaan.cyber)  
+💼 **LinkedIn:** [Muhammad Hassaan](https://www.linkedin.com/in/muhammad-hassaan-5641903b4/)  
