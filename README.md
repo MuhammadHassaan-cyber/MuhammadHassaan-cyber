@@ -1,7 +1,6 @@
 # Hello, I'm Muhammad Hassaan  
 <a href="https://tryhackme.com/p/hasaan.cyber"><img src="https://img.shields.io/badge/-TryHackMe-1B9E5A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 <a href="https://github.com/MuhammadHassaan-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/muhammad-hassaan-5641903b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a self-taught cybersecurity enthusiast with a deep curiosity for how systems work and how they can break. I love solving puzzles, mapping risks, and methodically working through challenges until I understand them fully.
 
@@ -17,7 +16,6 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
 | Directory Brute‑Forcing with Gobuster         | [Gobuster Deep Dive](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/TOOLS/Gobuster-Notes.md) |
 | Linux Command Line & Process Management       | [Linux Basics Cheat Sheet](https://github.com/MuhammadHassaan-cyber/MuhammadHassaan-cyber/blob/main/Linux-Commands.md) |
 | Web Application Security Fundamentals         | (In progress – PortSwigger Labs)      |
-| Reverse Shells & Netcat                       | [Understanding Netcat](https://github.com/your-username/cybersecurity-notes/blob/main/tools/netcat-notes.md) |
 
 ## Tools I Use & Learning
 
@@ -66,5 +64,4 @@ My goal is to build a career in **offensive security / red teaming**. I'm curren
 I don't just copy commands—I break them down, experiment, and document until I truly understand. You'll find notes on my struggles as well as my successes, because that's where real learning happens. If you're also on a similar path, feel free to explore, borrow, and reach out. We're all building our skills one puzzle at a time.
 
 📫 **Email:** hasaan.cyber@gmail.com  
-🌐 **TryHackMe:** [Hasaan.cyber](https://tryhackme.com/p/hasaan.cyber)  
-💼 **LinkedIn:** [Muhammad Hassaan](https://www.linkedin.com/in/muhammad-hassaan-5641903b4/)  
+🌐 **TryHackMe:** [Hasaan.cyber](https://tryhackme.com/p/hasaan.cyber) 
